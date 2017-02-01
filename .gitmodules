@@ -1,0 +1,3 @@
+[submodule "vendor/src/github.com/optiopay/kafka"]
+	path = vendor/src/github.com/optiopay/kafka
+	url = https://github.com/optiopay/kafka
