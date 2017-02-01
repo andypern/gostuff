@@ -1,11 +1,4 @@
 # gostuff
 
-do this:
 
-1.  git clone https://github.com/andypern/gostuff
-
-2.  cd gostuff
-
-3.  git submodule init
-
-4.  git submodule update
+so far , just two things here.  one day i'll figure out how to make 'go get' work. but today..clone , and check README in each of the subdirs for info on building.
